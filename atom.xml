@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[ＣｈＮＫのひとりごと]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://chacky.info/"/>
+  <updated>2015-10-18T16:12:58.627Z</updated>
+  <id>http://chacky.info/</id>
+  
+  <author>
+    <name><![CDATA[Kensuke Chanoki]]></name>
+    
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Alfredのパワーパックを3年迷って数分で買った]]></title>
+    <link href="http://chacky.info/2015/10/19/2015-10-19-buy-alfred-powerpack/"/>
+    <id>http://chacky.info/2015/10/19/2015-10-19-buy-alfred-powerpack/</id>
+    <published>2015-10-18T15:07:55.000Z</published>
+    <updated>2015-10-18T15:17:46.000Z</updated>
+    <content type="html"><![CDATA[<p>３年くらい買うかどうか迷うたび、日本円で3000円超の値段に躊躇してただのランチャーとして使っていたAlfredが、OSX El Capitanの登場でパワーパック導入に至りました。</p>
+<p>というのも、普段Macのターミナルを開く時TotalTerminalで設定したOptionキー2回押しで華麗に開いていたのですが、El Capitanのインストール後TotalTerminalが起動しなくなっていました。。</p>
+<p>ググったらやっぱりみんな同じ状況のようで、自分でスクリプト組んで対応しようとしてる方がいて</p>
+<p><a href="http://www.tokoro.me/2015/10/05/el-capitain-totalterminal/" target="_blank" rel="external">El CapitanでTotalTerminalが動かないならAppleScriptで代用すればいいじゃない? - TOKOROM BLOG</a></p>
+<p>こちら参考にやるしかないかなぁと思っていたら、ここのコメント欄でAlfredのWorkflowで出来るよの文字。<br>ものの数分でAlfredパワーパック購入してしまいました。</p>
+<p>Workflow便利。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>３年くらい買うかどうか迷うたび、日本円で3000円超の値段に躊躇してただのランチャーとして使っていたAlfredが、OSX El Capitanの登場でパワーパック導入に至りました。</p>
+<p>というのも、普段Macのターミナルを開く時TotalTerminalで設定し]]>
+    </summary>
+    
+      <category term="Alfred" scheme="http://chacky.info/tags/Alfred/"/>
+    
+      <category term="mac" scheme="http://chacky.info/tags/mac/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[お名前.comのドメイン登録時にWhois情報公開代行設定を忘れた]]></title>
+    <link href="http://chacky.info/2015/10/01/2015-10-01-onamae-whois/"/>
+    <id>http://chacky.info/2015/10/01/2015-10-01-onamae-whois/</id>
+    <published>2015-10-01T14:05:00.000Z</published>
+    <updated>2015-10-18T16:12:52.000Z</updated>
+    <content type="html"><![CDATA[<p>ビールを飲みながらお名前.comでドメイン取得をしていたら、<br>Whois情報公開代行設定を忘れてて色んな個人情報がだだ漏れになってしまっていました。</p>
+<p>慌てて設定しようと管理画面を見たら、なんと有料1,058円…<br>最初の登録の時にWhois情報公開代行の所にチェックを入れとかないとダメだったらしい。<br>やや、ちゃんと見なかったのが悪いなと1,058円くらいなら払おうと思ったら、なんと更新毎に掛かるから１年毎に1,058円かかるらしい。。</p>
+<p>ググったら色んな人が同じような失敗をしているらしく、大量に記事が出てきた。<br><a href="http://singoro.net/etc/onamae-com-whois/" target="_blank" rel="external">http://singoro.net/etc/onamae-com-whois/</a><br>どうしてデフォルトでチェックが入っていないんだ…</p>
+<p>取得後60日間はドメイン移管が出来ないらしいので、<br>60日後に別の所に移管して、以降お名前.comでドメイン取るのやめよう…</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>ビールを飲みながらお名前.comでドメイン取得をしていたら、<br>Whois情報公開代行設定を忘れてて色んな個人情報がだだ漏れになってしまっていました。</p>
+<p>慌てて設定しようと管理画面を見たら、なんと有料1,058円…<br>最初の登録の時にWhois情報公開代]]>
+    </summary>
+    
+      <category term="domain" scheme="http://chacky.info/tags/domain/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[IntelliJ IDEAで別名で保存]]></title>
+    <link href="http://chacky.info/2015/09/29/2015-09-29-intellij-save-as/"/>
+    <id>http://chacky.info/2015/09/29/2015-09-29-intellij-save-as/</id>
+    <published>2015-09-29T04:38:00.000Z</published>
+    <updated>2015-10-18T16:03:21.000Z</updated>
+    <content type="html"><![CDATA[<p>どうやらIntelliJでは別名で保存という項目が無いらしい。<br>いきなりなかなかのカルチャーショックだったけど、<br>プロジェクトパネル（Cmd＋1）で右クリック→Refactor→Copy（F5）で代用できそう。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>どうやらIntelliJでは別名で保存という項目が無いらしい。<br>いきなりなかなかのカルチャーショックだったけど、<br>プロジェクトパネル（Cmd＋1）で右クリック→Refactor→Copy（F5）で代用できそう。</p>
+]]>
+    </summary>
+    
+      <category term="IntelliJ IDEA" scheme="http://chacky.info/tags/IntelliJ-IDEA/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[IntelliJ IDEA導入]]></title>
+    <link href="http://chacky.info/2015/09/28/2015-09-28-trial-intellij-idea/"/>
+    <id>http://chacky.info/2015/09/28/2015-09-28-trial-intellij-idea/</id>
+    <published>2015-09-28T01:15:55.000Z</published>
+    <updated>2015-10-18T15:53:47.000Z</updated>
+    <content type="html"><![CDATA[<p>ちょっと前から気になっていたWebStorm。<br>Webと付いているからてっきりブラウザ上で作業をするようなアプリかと思っていたら、全然違った。</p>
+<p><a href="http://www.amazon.co.jp/JS-Node-js%E3%81%AB%E3%82%88%E3%82%8BWeb%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC-%E3%83%8D%E3%83%83%E3%83%88%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E9%96%8B%E7%99%BA%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-%E3%82%AF%E3%82%B8%E3%83%A9%E9%A3%9B%E8%A1%8C%E6%9C%BA/dp/4883379930" target="_blank" rel="external">JS+Node.jsによるWebクローラー/ネットエージェント開発テクニック</a><br>を読んでいたら紹介があって、興味が出たので触ってみる事に。</p>
+<p>WebStormはJetBrainsという所から出ている、IntelliJ IDEAなるIDEから、静的なWeb制作の機能のみを抜き出したものらしいです。<br>IntelliJ IDEA（Ultimate）はJavaをメインに・PHP・Ruby・Python・Web（html,css,js）などなど色んな言語に対応のとにかく全部盛りの製品で、<br>WebStormもIntelliJ IDEAも有料。<br>WebStormが5千円くらい、IntelliJ IDEAが2万円ちょいくらいでした。</p>
+<p>仕事はほぼWebStormの範囲で事足りるのですが、<br>WordPress案件でPHP見ることあったり、RubyもPythonも再入門してみたかったので<br>とりあえずIntelliJ IDEAインストールしてみました。<br>30日間の無料期間中にsublimetextから移行出来るか試してみようと思う。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>ちょっと前から気になっていたWebStorm。<br>Webと付いているからてっきりブラウザ上で作業をするようなアプリかと思っていたら、全然違った。</p>
+<p><a href="http://www.amazon.co.jp/JS-Node-js%E3%81%AB%E3]]>
+    </summary>
+    
+      <category term="IntelliJ IDEA" scheme="http://chacky.info/tags/IntelliJ-IDEA/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[git管理下の変更したファイルのみを抽出するワンライナー]]></title>
+    <link href="http://chacky.info/2015/04/17/2015-04-17-git-archive-modified-only/"/>
+    <id>http://chacky.info/2015/04/17/2015-04-17-git-archive-modified-only/</id>
+    <published>2015-04-17T03:37:00.000Z</published>
+    <updated>2015-04-17T03:38:47.000Z</updated>
+    <content type="html"><![CDATA[<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="comment">git</span> <span class="comment">archive</span> <span class="literal">-</span><span class="literal">-</span><span class="comment">format=zip</span> <span class="literal">-</span><span class="literal">-</span><span class="comment">prefix=root/</span> <span class="comment">HEAD</span> <span class="comment">`git</span> <span class="comment">diff</span> <span class="literal">-</span><span class="literal">-</span><span class="comment">name</span><span class="literal">-</span><span class="comment">only</span> <span class="literal">-</span><span class="literal">-</span><span class="comment">diff</span><span class="literal">-</span><span class="comment">filter=DM</span> <span class="comment">HEAD</span> <span class="comment">HEAD^^^^`</span> <span class="literal">-</span><span class="comment">o</span> <span class="string">.</span><span class="comment">/archive</span><span class="string">.</span><span class="comment">zip</span></div></pre></td></tr></table></figure>
+
+<p>ページ数の多い案件とか対応してると、<br>修正対応とかでソースコード納品するとき、<br>「今回いじったファイルだけチョーダイ＾＾」<br>ってことがよくあるので、結構な頻度で使ってます。</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="title">HEAD</span> HEAD^^^^</div></pre></td></tr></table></figure>
+
+<p>のところを都度変えて使ってます^^<br>（もっとスマートなやり方ありそう）</p>
+<p>コミット例：<br>11:50 修正1<br>11:40 修正2<br>11:30 修正3</p>
+<p>HEAD HEAD^<br>最新の1コミット分（修正1で変更したファイルを出力）</p>
+<p>HEAD HEAD^^<br>直近の2コミット分（修正1と修正2で変更したファイルを出力）</p>
+<p>HEAD^ HEAD^^<br>1個前のコミットから1コミット分<br>（修正2と修正3で変更したファイルを出力）</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><sp]]>
+    </summary>
+    
+      <category term="git" scheme="http://chacky.info/tags/git/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[気づいたらAWSに大金を支払っていた]]></title>
+    <link href="http://chacky.info/2015/04/04/2015-04-04-aws-useless-expense/"/>
+    <id>http://chacky.info/2015/04/04/2015-04-04-aws-useless-expense/</id>
+    <published>2015-04-04T01:14:00.000Z</published>
+    <updated>2015-04-17T03:55:46.000Z</updated>
+    <content type="html"><![CDATA[<p>先々月でAWSの無料期間が終わってたらしく、気づいたら合計7,000円くらいカードから引かれてました。。<br>先月は無料期間中に超えた分の請求か何かかな？とスルーしてたけど、今月も同じ金額請求が来てるからちゃんと見てみたら、EC2で試しに作ってたインスタンスがそのまま残ってたらしい。</p>
+<p>EC2の管理画面見てみてもResourcesの所には</p>
+<p>0 Running Instances<br>0 Elastic IPs</p>
+<p>って出てるしどういうこっちゃと思ってたら、<br>右上メニューのLegionの所が</p>
+<p>US West(Oregon)</p>
+<p>になっていて、<br>そこを</p>
+<p>Asia Pacific（Tokyo）</p>
+<p>に変えたら<br>Resourcesの所に</p>
+<p>1 Running Instances<br>1 Elastic IPs</p>
+<p>…これじゃねぇかと。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>先々月でAWSの無料期間が終わってたらしく、気づいたら合計7,000円くらいカードから引かれてました。。<br>先月は無料期間中に超えた分の請求か何かかな？とスルーしてたけど、今月も同じ金額請求が来てるからちゃんと見てみたら、EC2で試しに作ってたインスタンスがそのまま残っ]]>
+    </summary>
+    
+      <category term="aws" scheme="http://chacky.info/tags/aws/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[SSH接続でPermission denied (publickey).]]></title>
+    <link href="http://chacky.info/2015/03/13/2015-03-13-ssh_permission_denied/"/>
+    <id>http://chacky.info/2015/03/13/2015-03-13-ssh_permission_denied/</id>
+    <published>2015-03-13T06:17:00.000Z</published>
+    <updated>2015-03-13T06:32:56.000Z</updated>
+    <content type="html"><![CDATA[<p>SSH接続でまたハマりました。<br>いつもこの穴にハマる気がする。。。</p>
+<figure class="highlight Terminal"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ ssh xxx.xxx.jp</div><div class="line"><span class="variable">Permission</span> denied (publickey).</div></pre></td></tr></table></figure>
+
+<h2 id="別ホストの鍵作った時は、ssh-addでご登録を">別ホストの鍵作った時は、ssh-addでご登録を</h2>
+<figure class="highlight Terminal"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ssh-keygen -t rsa</div></pre></td></tr></table></figure>
+
+<p>で鍵ペア作ったら、<br>GitHubとかBacklogとかに公開鍵登録するのと一緒に</p>
+<figure class="highlight Terminal"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">ssh-<span class="built_in">add</span> ~/.ssh/[新しく作った秘密鍵の名前]</div></pre></td></tr></table></figure>
+
+<p>でssh-agentに秘密鍵を登録してあげる。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>SSH接続でまたハマりました。<br>いつもこの穴にハマる気がする。。。</p>
+<figure class="highlight Terminal"><table><tr><td class="gutter"><pre><div class="line">1</div><]]>
+    </summary>
+    
+      <category term="mac" scheme="http://chacky.info/tags/mac/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hexoでstyle.cssが更新されなかった]]></title>
+    <link href="http://chacky.info/2015/02/22/2015-02-22-hexo-error-stylus-generate/"/>
+    <id>http://chacky.info/2015/02/22/2015-02-22-hexo-error-stylus-generate/</id>
+    <published>2015-02-22T07:43:00.000Z</published>
+    <updated>2015-02-22T07:56:21.000Z</updated>
+    <content type="html"><![CDATA[<p>今日別のPCで記事を書こうと思い、</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo <span class="keyword">server</span></div></pre></td></tr></table></figure>
+
+<p>してみると<br>style.cssの更新が上手くいかず（status -&gt; pending と出て止まってた）<br>ハマりました。</p>
+<p>hexo clean して hexo generate しなおしても、<br>css関連のファイルが一切吐出されず、<br>GitHubのissuesの情報から、<br>db.jsonやら.deployファイル削除してみてもダメ。</p>
+<p>またinitからやり直しかしら…と思ったら、<br>node_modules/hexo-renderer-stylus を削除して<br>npm installしなおしたら直りました。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>今日別のPCで記事を書こうと思い、</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><]]>
+    </summary>
+    
+      <category term="Hexo" scheme="http://chacky.info/tags/Hexo/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Chromeでデベロッパーツールを開くショートカット]]></title>
+    <link href="http://chacky.info/2015/02/22/2015-02-22-chrome-open-developertool/"/>
+    <id>http://chacky.info/2015/02/22/2015-02-22-chrome-open-developertool/</id>
+    <published>2015-02-22T02:11:00.000Z</published>
+    <updated>2015-02-21T04:19:08.000Z</updated>
+    <content type="html"><![CDATA[<p>command + option + i → デベロッパーツールを普通に開く<br>command + option + j → デベロッパーツールのConsoleタブを開く<br>command + shift + c → エレメント選択の状態（デベロッパーツール左上の虫眼鏡クリック）で開く</p>
+<p>スタイルガイドとかからそのままコードを引っ張ってくるときに<br>command + shift + c → （要素選択） → command + c<br>ですぐコピー出来て捗った。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>command + option + i → デベロッパーツールを普通に開く<br>command + option + j → デベロッパーツールのConsoleタブを開く<br>command + shift + c → エレメント選択の状態（デベロッパーツール左上の虫]]>
+    </summary>
+    
+      <category term="chrome" scheme="http://chacky.info/tags/chrome/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[いまさらだけどSublime Text 3を導入してみた]]></title>
+    <link href="http://chacky.info/2015/02/21/2015-02-21-sublime-text-3/"/>
+    <id>http://chacky.info/2015/02/21/2015-02-21-sublime-text-3/</id>
+    <published>2015-02-21T04:19:00.000Z</published>
+    <updated>2015-02-21T13:07:43.000Z</updated>
+    <content type="html"><![CDATA[<p>サクラエディタ→秀丸→Dreamweaver→Sublime Text 2＆coda2（shift-jis案件用）<br>と変遷して、最近はもっぱらAtomでコーディングしてました。なんとなく。<br>ですが日本語と相性悪いのか、僕と相性悪いのか<br>・範囲選択すると表示がおかしい（末尾まで選択してるのに中途半端な位置でフォーカス止まってたり）<br>・マルチカーソルで編集するとちゃんと入力されないどころか関係無いところまでぶっ壊す<br>・まじかよ…とアンドゥするととんでもない前まで戻される<br>加えてなんか挙動がもっさりしてたりでストレス溜まってきたので<br>ここにきていまさらですがSublime Text 3を導入してみました。</p>
+<p>導入方法とかPackageControllの入れ方とかは他の所で腐るほど説明されてるので、<br>今回入れたパッケージとかを自分用にまとめます。</p>
+<h2 id="AutoFileName">AutoFileName</h2>
+<p><a href="https://github.com/BoundInCode/AutoFileName" target="_blank" rel="external">AutoFileName - github</a><br>画像ファイル等のファイル名補完</p>
+<h2 id="Quick_File_Open">Quick File Open</h2>
+<p><a href="gsingh93/sublime-quick-file-open">Quick File Open</a><br>よく使うファイルを下記コマンドですぐ開ける<br>ctrl + alt + shift + p<br>設定は下記<br>SublimeText &gt; Preference &gt; Package Settings &gt; Settings - User</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">{</div><div class="line">  "<span class="attribute">files</span>": <span class="value">[</span></div><div class="line">    <span class="string">"~/.zshrc"</span>,</div><div class="line">    <span class="string">"~/.ssh/config"</span></div><div class="line">  ]</div><div class="line">}</div></pre></td></tr></table></figure>
+
+<h2 id="SCSS">SCSS</h2>
+<p><a href="https://github.com/danro/SCSS-sublime" target="_blank" rel="external">SCSS - github</a></p>
+<h2 id="Emmet">Emmet</h2>
+<p><a href="https://github.com/sergeche/emmet-sublime" target="_blank" rel="external">Emmet - github</a></p>
+<p>emmetでhtmlを展開した時にenになるのをjaにする<br>SublimeText &gt; Preference &gt; Package Settings &gt; emmet &gt; Setting-User</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">{</div><div class="line">  "<span class="attribute">snippets</span>": <span class="value">{</span></div><div class="line">    "<span class="attribute">variables</span>": <span class="value">{</span></div><div class="line">      "<span class="attribute">lang</span>": <span class="value"><span class="string">"ja"</span></span></div><div class="line">    }</div><div class="line">  }</div><div class="line">}</div></pre></td></tr></table></figure>
+
+<h2 id="jQuery">jQuery</h2>
+<p><a href="https://github.com/mrmartineau/Jquery" target="_blank" rel="external">jQuery - github</a></p>
+<h2 id="Side_Bar_Enhancements">Side Bar Enhancements</h2>
+<p><a href="https://github.com/titoBouzout/SideBarEnhancements" target="_blank" rel="external">SideBarEnhancements - github</a><br>サイドバーをいろいろ便利に。</p>
+<h2 id="Diffy">Diffy</h2>
+<p><a href="https://packagecontrol.io/packages/Diffy" target="_blank" rel="external">Diffy</a><br>2ペインの差分を表示する。<br>画面を2分割した後、<br>“command + k + d” → 差分表示<br>“command + k + c” → 差分非表示<br>（commandキーは押しっぱなしでキーボードの k 続いて d or c を押す）</p>
+<h2 id="Local_History">Local History</h2>
+<p><a href="https://github.com/vishr/local-history" target="_blank" rel="external">Local History</a><br>ファイルを保存する度に前のバージョンを残してくれて、<br>差分表示とか前のバージョンを見れたりする。<br>command + shift + p → local history</p>
+<h2 id="HTML-CSS-JS_Prettify">HTML-CSS-JS Prettify</h2>
+<p><a href="https://sublime.wbond.net/packages/HTML-CSS-JS%20Prettify" target="_blank" rel="external">HTML-CSS-JS Prettify</a><br>コードフォーマット<br>command + shift + h</p>
+<p>参照：<br><a href="http://qiita.com/maccotsan/items/f320036e19f8d3b798c1" target="_blank" rel="external">SublimeTextの教科書で紹介されてるプラグインまとめ</a></p>
+<h1 id="使って無かったけどグッときたショートカット">使って無かったけどグッときたショートカット</h1>
+<p>command + shift + d → 行や選択箇所の複製<br>ctrl + shift + k → 行の削除<br>command + l → 行選択<br>行選択に続けて shift + ↑↓ → 複数行選択<br>command + shift + j → 同じインデントレベルのものを選択<br>command + shift + a → HTMLのタグの単位で選択</p>
+<h1 id="その他設定等">その他設定等</h1>
+<p>参考：<br><a href="http://m.designbits.jp/14072818/" target="_blank" rel="external">Sublime Text のアイコンを Mac OS X Yosemite（ヨセミテ）風に変更してみた</a><br>→ macの「情報を見る」ですぐ設定出来るのイイ！<br><a href="http://megane-blog.com/2014/08/16/1310" target="_blank" rel="external">MacのSublime Text 3 + Emmet で閉じタグの後ろにコメントを加える設定</a><br>→ 案件によってはブロックタグのコメント必須だったりするので、必要になったらやってみよう。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>サクラエディタ→秀丸→Dreamweaver→Sublime Text 2＆coda2（shift-jis案件用）<br>と変遷して、最近はもっぱらAtomでコーディングしてました。なんとなく。<br>ですが日本語と相性悪いのか、僕と相性悪いのか<br>・範囲選択すると表示]]>
+    </summary>
+    
+      <category term="sublime text 3" scheme="http://chacky.info/tags/sublime-text-3/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Project Tab Manager]]></title>
+    <link href="http://chacky.info/2015/02/14/2015-02-14-chex-project-tab-manager/"/>
+    <id>http://chacky.info/2015/02/14/2015-02-14-chex-project-tab-manager/</id>
+    <published>2015-02-14T06:18:00.000Z</published>
+    <updated>2015-02-14T06:33:44.000Z</updated>
+    <content type="html"><![CDATA[<p>開いてるタブを保存できるChromeエクステンション。</p>
+<p><a href="https://www.youtube.com/watch?v=qzh56Ja1eaw&amp;feature=youtu.be&amp;t=3h20m16s" target="_blank" rel="external">HTML5 ConferenceのルームCライブ配信</a><br>この動画で<a href="https://twitter.com/agektmr" target="_blank" rel="external">@agektmr</a>さんが使ってるのを見て気になったので入れてみた。<br>（そろそろWeb Componentsも勉強せねば）</p>
+<blockquote>
+
+<p>Chrome の消費メモリが減少し、彼女ができます。</p>
+</blockquote>
+
+
+
+<p><a href="https://blog.agektmr.com/2013/05/chrome-project-tab-manager-20.html" target="_blank" rel="external">Chrome でもう大量のタブに悩まされない Project Tab Manager 2.0 リリース</a></p>
+<p>!!</p>
+<p>今まではChrome標準のプロファイルで<br>プロジェクト毎にユーザー作ってタブ切り替えしてたんですが、<br>最近Chromeのアップデートでユーザーの切り替えが使いづらくなったのと、<br>ユーザー作るたびにエクステンション入れなおすのが面倒だったので、<br>同じユーザーでタブ保存できるのは便利かも。</p>
+<p><a href="https://chrome.google.com/webstore/detail/project-tab-manager/iapdnheekciiecjijobcglkcgeckpoia" target="_blank" rel="external">Project Tab Manager - Chrome ウェブストア</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>開いてるタブを保存できるChromeエクステンション。</p>
+<p><a href="https://www.youtube.com/watch?v=qzh56Ja1eaw&amp;feature=youtu.be&amp;t=3h20m16s" target="_bla]]>
+    </summary>
+    
+      <category term="chrome" scheme="http://chacky.info/tags/chrome/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Peco入れてみた]]></title>
+    <link href="http://chacky.info/2015/02/13/2015-02-13-peco/"/>
+    <id>http://chacky.info/2015/02/13/2015-02-13-peco/</id>
+    <published>2015-02-13T12:54:00.000Z</published>
+    <updated>2015-02-13T16:02:57.000Z</updated>
+    <content type="html"><![CDATA[<p>今日おもむろにbrew updateしたら</p>
+<figure class="highlight terminal"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">$ brew update</div><div class="line">==&gt; New Formulae</div><div class="line"><span class="keyword">...</span> <span class="keyword">...</span> peco <span class="keyword">...</span></div></pre></td></tr></table></figure>
+
+<p>ってのが入ってきたので、音の響き（ペコッ）で気になって入れてみました。</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="variable">$ </span>brew install peco</div></pre></td></tr></table></figure>
+
+<p>ググって出てきた記事でなんとなく動作を把握。</p>
+<p><a href="http://qiita.com/xtetsuji/items/05f6f4c1b17854cdd75b" target="_blank" rel="external">pecoの基礎の基礎</a><br><a href="http://qiita.com/Kuniwak/items/b711d6c3e402dfd9356b" target="_blank" rel="external">peco と alias -g で git に便利革命おきた</a></p>
+<p>なんか可愛い。便利っぽい。</p>
+<p>シェル職人のスキルレベル高ければ楽しそう。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>今日おもむろにbrew updateしたら</p>
+<figure class="highlight terminal"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line]]>
+    </summary>
+    
+      <category term="Go" scheme="http://chacky.info/tags/Go/"/>
+    
+      <category term="mac" scheme="http://chacky.info/tags/mac/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[HexoでGoogle Analyticsを使う]]></title>
+    <link href="http://chacky.info/2015/02/12/2015-02-12-hexo-google-analytics/"/>
+    <id>http://chacky.info/2015/02/12/2015-02-12-hexo-google-analytics/</id>
+    <published>2015-02-12T00:32:00.000Z</published>
+    <updated>2015-02-12T00:51:09.000Z</updated>
+    <content type="html"><![CDATA[<p>やっぱりAnalyticsは入れときたいので設定。</p>
+<p>使ってるテーマに依るのかもしれませんが、<br>今使ってるlandscapeでは<br>themes/（使用しているテーマ）/_config.yml<br>のところにgoogle_analyticsなる項目があったので<br>トラッキングID入れてあげたらOKでした。</p>
+<figure class="highlight themes/（使用しているテーマ）/_config.yml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="preprocessor"># Miscellaneous</span></div><div class="line">google_analytics: UA-xxxxxxxx-x</div></pre></td></tr></table></figure>
+
+<p>layout/_partial/google-analytics.ejs<br>で呼んでるみたいです。</p>
+<hr>
+<p><a href="https://github.com/mde/ejs" target="_blank" rel="external">EJS</a>に興味。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>やっぱりAnalyticsは入れときたいので設定。</p>
+<p>使ってるテーマに依るのかもしれませんが、<br>今使ってるlandscapeでは<br>themes/（使用しているテーマ）/_config.yml<br>のところにgoogle_analyticsなる項目が]]>
+    </summary>
+    
+      <category term="Hexo" scheme="http://chacky.info/tags/Hexo/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[PHPのファイルアップロード上限の変更]]></title>
+    <link href="http://chacky.info/2015/02/10/2015-02-10-php-fileupload-max-size/"/>
+    <id>http://chacky.info/2015/02/10/2015-02-10-php-fileupload-max-size/</id>
+    <published>2015-02-10T03:29:00.000Z</published>
+    <updated>2015-02-10T03:45:27.000Z</updated>
+    <content type="html"><![CDATA[<p>PHPのデフォルト設定では<br>ファイルアップロードの上限が2Mらしい。</p>
+<p>Wordpressでサイズの大きいPDFアップしようとしたら怒られたので修正。</p>
+<p>下記内容をphp.iniに追加しました。</p>
+<figure class="highlight php.ini"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="variable">memory_limit =</span> <span class="number">50</span>M</div><div class="line"><span class="variable">post_max_size =</span> <span class="number">40</span>M</div><div class="line"><span class="variable">upload_max_filesize =</span> <span class="number">30</span>M</div><div class="line"><span class="variable">max_imput_time =</span> <span class="number">60</span></div></pre></td></tr></table></figure>
+
+<p>memory_limit &gt; post_max_size &gt; upload_max_filesize<br>になるように記述してねってことでした。</p>
+<p>参考：<br><a href="http://www.magical-remix.co.jp/magicalog/archives/2857" target="_blank" rel="external">WordPressのアップロードファイルの容量上限を上げる方法（php.iniと.htaccess）</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>PHPのデフォルト設定では<br>ファイルアップロードの上限が2Mらしい。</p>
+<p>Wordpressでサイズの大きいPDFアップしようとしたら怒られたので修正。</p>
+<p>下記内容をphp.iniに追加しました。</p>
+<figure class="highl]]>
+    </summary>
+    
+      <category term="PHP" scheme="http://chacky.info/tags/PHP/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Markdownでタイトルに[]とか()が入ってる時のリンク]]></title>
+    <link href="http://chacky.info/2015/02/09/2015-02-09-md-link/"/>
+    <id>http://chacky.info/2015/02/09/2015-02-09-md-link/</id>
+    <published>2015-02-09T06:25:00.000Z</published>
+    <updated>2015-02-09T06:27:30.000Z</updated>
+    <content type="html"><![CDATA[<p>Markdownで記事書いてて他サイト様にリンク貼る時、</p>
+<figure class="highlight Markdown"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">[<span class="link_label">タイトル</span>](<span class="link_url">URL</span>)</div></pre></td></tr></table></figure>
+
+<p>で書くと、<br>ページのタイトルで[ ]とか( )が入ってる時に<br>上手くリンクが貼れなかったので別の方法を。<br>（エスケープの仕方もあるのかな？）</p>
+<figure class="highlight Markdown"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">[<span class="link_label">タイトル（表示される文字列）</span>][<span class="link_reference">ID</span>]</div><div class="line">[<span class="link_reference">ID</span>]:URL<span class="link_url"> "タイトル"</span></div></pre></td></tr></table></figure>
+
+<ul>
+<li>変数みたいな感じ。[ID]の行で定義して[文字][ID]で使う。</li>
+<li>[ID]の所は数字でも文字列でも大丈夫みたい。</li>
+<li>[ID]:URL “タイトル”の”タイトル”は省略可。</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Markdownで記事書いてて他サイト様にリンク貼る時、</p>
+<figure class="highlight Markdown"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></t]]>
+    </summary>
+    
+      <category term="Markdown" scheme="http://chacky.info/tags/Markdown/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[ブログをGithub Pagesで公開してみた]]></title>
+    <link href="http://chacky.info/2015/02/07/2015-02-07-start-githubpages/"/>
+    <id>http://chacky.info/2015/02/07/2015-02-07-start-githubpages/</id>
+    <published>2015-02-07T05:36:34.000Z</published>
+    <updated>2015-02-10T04:06:30.000Z</updated>
+    <content type="html"><![CDATA[<p>せっかく書くなら公開しないと勿体無いので、Github Pagesに公開してみようと<br>「<a href="http://liginc.co.jp/web/programming/server/104594" target="_blank" rel="external">LIGさんのブログ記事
+</a>」の続きを参考にGithub Pagesにデプロイしてみました。</p>
+<h2 id="hexo_deploy_-g_でエラー">hexo deploy -g でエラー</h2>
+<p>デプロイしてみると、出力された最後の行は</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">[info] Deploy <span class="keyword">done</span>: github</div></pre></td></tr></table></figure>
+
+<p>って出てたので「よし公開完了〜」と思ったんですが、<br>ブラウザで確認するとエラー画面。。</p>
+<p>もう一度出力内容をよく見てみると、その上の行で</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">Permission denied (publickey).</div><div class="line">fatal: Could <span class="operator">not</span> <span class="built_in">read</span> <span class="built_in">from</span> remote repository.</div><div class="line"></div><div class="line">Please make sure you have <span class="operator">the</span> correct access rights</div><div class="line"><span class="operator">and</span> <span class="operator">the</span> repository exists.</div></pre></td></tr></table></figure>
+
+<p>怒られてました。</p>
+<h2 id="GithubのSSH接続">GithubのSSH接続</h2>
+<p>しばらくgithub放置していたのでSSHのつなぎ方が分からなくなってた。。</p>
+<p>SSH鍵登録しなおして、つないでみるとエラー。</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">$ ssh -T git@github.<span class="keyword">com</span></div><div class="line">Warnin<span class="variable">g:</span> Permanently added the RSA host key <span class="keyword">for</span> IP address <span class="string">'192.30.252.129'</span> <span class="keyword">to</span> the <span class="keyword">list</span> of known hosts.</div><div class="line">Permission denied (publickey).</div></pre></td></tr></table></figure>
+
+<p>~/.ssh/known_hostsのgithub.comと192.30.252.129(↑のエラーメッセージで出たIP)で始まる行を削除した後に</p>
+<p><a href="https://help.github.com/articles/generating-ssh-keys/" target="_blank" rel="external">公式ヘルプ</a>の下記部分をしてあげたらデプロイできるようになりました。</p>
+<figure class="highlight terminal"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># start the ssh-agent in the background</span></div><div class="line"><span class="variable">$ </span>eval <span class="string">"$(ssh-agent -s)"</span></div><div class="line"><span class="constant">Agent </span>pid <span class="number">59566</span></div><div class="line"><span class="variable">$ </span>ssh-add ~<span class="regexp">/.ssh/id</span>_rsa</div></pre></td></tr></table></figure>
+
+<h3 id="参考：">参考：</h3>
+<p><a href="http://qiita.com/tsumekoara/items/6c3e96c394bb0f753ea0" target="_blank" rel="external">[GitHub] 公開鍵登録の際に、Permission denied (publickey). が出続ける場合の対応 (vagrantからsshする場合の注意も)</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>せっかく書くなら公開しないと勿体無いので、Github Pagesに公開してみようと<br>「<a href="http://liginc.co.jp/web/programming/server/104594" target="_blank" rel="external"]]>
+    </summary>
+    
+      <category term="Git" scheme="http://chacky.info/tags/Git/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[ブログを再開してみようと思う]]></title>
+    <link href="http://chacky.info/2015/02/05/2015-02-05-restart-blog/"/>
+    <id>http://chacky.info/2015/02/05/2015-02-05-restart-blog/</id>
+    <published>2015-02-05T11:20:34.000Z</published>
+    <updated>2015-02-05T14:44:36.000Z</updated>
+    <content type="html"><![CDATA[<p>2012年にほぼ三日坊主で放置していたjekyllブログ。</p>
+<p>先日、カヤックさんの「<a href="http://level0.kayac.com/2015/02/kidukitips.php" target="_blank" rel="external">検索じゃ学べない！ HTML/CSS/JavaScriptの気づきTipsまとめ31こ</a>」を見て自分でもアウトプットしていかないとなと思い再開してみる。</p>
+<h2 id="jekyllが入ってないよ…">jekyllが入ってないよ…</h2>
+<p>と思ったものの、jekyllで運用していたのは3年前。その頃使ってたマシンは無くなり、今のマシンにはjekyllインストールしてなかった。。</p>
+<p>ということで昔の記事見てインストールしようとするも、なんか色々エラーでインストールできず…</p>
+<p>ローカルの開発環境作ってそっちでやろうとするも、いろいろインストールするのに時間かかりまくって、結局何をしたかったのか忘れて環境構築に数時間かかりそうだったので断念。</p>
+<p>（ちなみにローカルの開発環境はドットインストールさんの「<a href="http://dotinstall.com/lessons/basic_localdev_mac" target="_blank" rel="external">ローカル開発環境の構築 [MacOS X編]</a>」を見ながらもくもくしました。）</p>
+<h2 id="jekyllが表示されないよ…">jekyllが表示されないよ…</h2>
+<p>ドットインストールでjekyll入門も発見したのでその通りに進めてみると、ブラウザで動作確認のところでページが見つかりません的なエラー。下記コマンドで起動したら動きました。</p>
+<figure class="highlight terminal"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="comment">$</span> <span class="comment">jekyll</span> <span class="comment">serve</span> <span class="literal">-</span><span class="literal">-</span><span class="comment">host</span> <span class="comment">0</span><span class="string">.</span><span class="comment">0</span><span class="string">.</span><span class="comment">0</span><span class="string">.</span><span class="comment">0</span></div></pre></td></tr></table></figure>
+
+<p><a href="https://stackoverflow.com/questions/27617217/cannot-reach-jekyll-server-on-vagrant-from-outside" target="_blank" rel="external">stackoverflow</a></p>
+<h2 id="もう面倒なのでjekyll諦め">もう面倒なのでjekyll諦め</h2>
+<p>結局、ドットインストール産の開発環境でjekyllインストールは出来たんですが、ruby製の物っていっつもこの環境構築で時間かかってる気がする。。</p>
+<p>ということでjekyllを諦めて別の静的サイトジェネレータに移行する事にしました。</p>
+<h2 id="Hexoってなんて読むの…？">Hexoってなんて読むの…？</h2>
+<p>ちょろっと見た限り Node.js製 の <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a> ってのが良さげだったので「<a href="http://liginc.co.jp/web/programming/server/104594" target="_blank" rel="external">LIGさんのブログ記事
+</a>」を参考にセットアップ。</p>
+<figure class="highlight terminal"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="variable">$ </span>npm install -g hexo</div><div class="line"><span class="variable">$ </span>hexo init myblog</div><div class="line"><span class="variable">$ </span>cd myblog</div><div class="line"><span class="variable">$ </span>npm install</div><div class="line"><span class="variable">$ </span>hexo server</div></pre></td></tr></table></figure>
+
+<p>は、早い…</p>
+<p>何もつまづく事無く動作チェックまで行けてしまいました。</p>
+<h2 id="jekyllからHexoへの移行作業">jekyllからHexoへの移行作業</h2>
+<p>jekyllからHexoへの移行作業は<br>_posts/をそのまま移行して、ちょろっとタイトル部分を変更するだけでOKでした。</p>
+<p>デザインもデフォルトで普通に良いし、テーマもいろいろあるみたいなのでしばらくHexoでブログ続けてみようと思います。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>2012年にほぼ三日坊主で放置していたjekyllブログ。</p>
+<p>先日、カヤックさんの「<a href="http://level0.kayac.com/2015/02/kidukitips.php" target="_blank" rel="external">検]]>
+    </summary>
+    
+      <category term="jekyll" scheme="http://chacky.info/tags/jekyll/"/>
+    
+      <category term="Hexo" scheme="http://chacky.info/tags/Hexo/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Jekyllでカテゴリ一覧ページを作りたい]]></title>
+    <link href="http://chacky.info/2012/07/11/2012-07-11-jekyll-blog-category-list/"/>
+    <id>http://chacky.info/2012/07/11/2012-07-11-jekyll-blog-category-list/</id>
+    <published>2012-07-10T15:00:00.000Z</published>
+    <updated>2015-02-05T14:39:29.000Z</updated>
+    <content type="html"><![CDATA[<p>Jekyllでカテゴリ一覧ページを作りたい</p>
+<p>Jekyllでブログ書き初めて約１週間。毎回毎回入力してるcategoriesやtagsが全く使われていない事に気づきました。</p>
+<p>せっかく考えてカテゴリ入力してるんだから、使われないと寂しいのでググってみたらこんなプラグインを見つけました。</p>
+<p>generate_categories.rb<br><a href="http://recursive-design.com/projects/jekyll-plugins/" target="_blank" rel="external">Jekyll Plugins - Recursive Design</a></p>
+<p>英語読めないのでわけわかめですが、たぶんカテゴリ達をジェネレートしてくれるんだと思います。（ゆとり）</p>
+<p>インストールは簡単で、</p>
+<ol>
+<li>_pluginsフォルダ（無い場合はJekyll動かしてるフォルダ直下に作る）に、generate_categories.rbを入れる。</li>
+</ol>
+<ul>
+<li>layoutsフォルダに入ってるcategory_index.htmlを_layoutsフォルダに入れる。</li>
+</ul>
+<p>だけ。<br>インストールすると自動的に_site/categories/が作られて、中にカテゴリ毎のpost一覧ページができあがります。<br>便利！  </p>
+<hr>
+<p>ただ、１点問題があって、日本語のカテゴリ名つけちゃうとリンク先でInternal Server Errorなってしまう。<br>あとでもう一回調べよう。。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Jekyllでカテゴリ一覧ページを作りたい</p>
+<p>Jekyllでブログ書き初めて約１週間。毎回毎回入力してるcategoriesやtagsが全く使われていない事に気づきました。</p>
+<p>せっかく考えてカテゴリ入力してるんだから、使われないと寂しいのでググってみ]]>
+    </summary>
+    
+      <category term="jekyll" scheme="http://chacky.info/tags/jekyll/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[MacOSXでPATHを通す]]></title>
+    <link href="http://chacky.info/2012/07/09/2012-07-09-mac-osx-add-path/"/>
+    <id>http://chacky.info/2012/07/09/2012-07-09-mac-osx-add-path/</id>
+    <published>2012-07-08T15:00:00.000Z</published>
+    <updated>2015-02-06T09:19:47.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="PATHの確認方法">PATHの確認方法</h2>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="variable">$ </span>printenv <span class="constant">PATH</span></div></pre></td></tr></table></figure>
+
+<h2 id="PATH追加方法">PATH追加方法</h2>
+<p>.bash_profileまたは<br>.zprofileに下記記述を追加する</p>
+<figure class="highlight .zprofile"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ <span class="keyword">export</span> PATH=<span class="variable">$PATH</span>:<span class="string">"通したいパス"</span></div></pre></td></tr></table></figure>
+
+<p>一時的にパスを通したい場合は、<br>上記コマンドをターミナルで直接実行する</p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ <span class="keyword">export</span> PATH=<span class="variable">$PATH</span>:<span class="string">"通したいパス"</span></div></pre></td></tr></table></figure>
+
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="PATHの確認方法">PATHの確認方法</h2>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class]]>
+    </summary>
+    
+      <category term="mac" scheme="http://chacky.info/tags/mac/"/>
+    
+      <category term="Mac" scheme="http://chacky.info/categories/Mac/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Raphael.js]]></title>
+    <link href="http://chacky.info/2012/07/08/2012-07-10-raphael-js/"/>
+    <id>http://chacky.info/2012/07/08/2012-07-10-raphael-js/</id>
+    <published>2012-07-07T15:00:00.000Z</published>
+    <updated>2015-02-05T14:38:40.000Z</updated>
+    <content type="html"><![CDATA[<p>javascriptでのSVG操作を簡単にするライブラリ。<br>すごく簡単便利。<br><a href="http://raphaeljs.com/" target="_blank" rel="external">Raphal—JavaScript Library</a></p>
+<h2 id="簡単な使い方">簡単な使い方</h2>
+<p><a href="http://www.webopixel.net/javascript/599.html" target="_blank" rel="external">SVGを簡単に扱えるJSライブラリRaphael.js使ってみた | webOpixel</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>javascriptでのSVG操作を簡単にするライブラリ。<br>すごく簡単便利。<br><a href="http://raphaeljs.com/" target="_blank" rel="external">Raphal—JavaScript Library</a>]]>
+    </summary>
+    
+      <category term="Javascript" scheme="http://chacky.info/tags/Javascript/"/>
+    
+      <category term="Web" scheme="http://chacky.info/categories/Web/"/>
+    
+  </entry>
+  
+</feed>
